@@ -4,8 +4,8 @@ Git adalah version control system yang digunakan para developer untuk mengembang
 
 ### Prerequisites
 
-1. Download Git from [Git Pages] (https://git-scm.com/)
-2. Create account in [Github] (https://github.com) or [Gitlab] (https://gitlab.com)
+1. Download Git from [Git Pages](https://git-scm.com/)
+2. Create account in [Github](https://github.com) or [Gitlab](https://gitlab.com)
 
 ## Git Basic Commands
 
@@ -24,4 +24,4 @@ Git adalah version control system yang digunakan para developer untuk mengembang
 | `git pull` | Menarik code dari repository ke local |
 | `git merge <branchname>` | Menggabungkan branch ke branch aktif |
 
-Dokumentasi lainnya bisa di cek [disini] (https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
+Dokumentasi lainnya bisa di cek [disini](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
