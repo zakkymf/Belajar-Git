@@ -4,7 +4,7 @@ Git adalah version control system yang digunakan para developer untuk mengembang
 
 ### Prerequisites
 
-1. Download Git di [Git](https://git-scm.com/)
+1. Download [Git](https://git-scm.com/)
 2. Buat Akun di [Github](https://github.com) atau [Gitlab](https://gitlab.com)
 
 ### Git Basic Commands
